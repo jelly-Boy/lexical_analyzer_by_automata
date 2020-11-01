@@ -1,0 +1,20 @@
+: - <DELIMITER>
+hello - <IDENTIFIER>
+
+ - <WHITE_SPACE>
+
+ - <WHITE_SPACE>
+"string_value ..^&*" - <STRING>
+
+ - <WHITE_SPACE>
+assert - <RESERVED_WORD>
+  - <WHITE_SPACE>
+v - <IDENTIFIER>
+  - <WHITE_SPACE>
+== - <OPERATOR>
+  - <WHITE_SPACE>
+3 - <DECIMAL>
+** - <OPERATOR>
+2 - <DECIMAL>
+
+ - <WHITE_SPACE>

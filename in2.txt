@@ -1,0 +1,4 @@
+:hello# ts_is_comment
+# pa ram pa pam
+"string_value ..^&*"
+assert v == 3**2

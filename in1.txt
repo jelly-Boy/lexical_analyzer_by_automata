@@ -1,0 +1,3 @@
+x = [1, 547, (4, -3.32e-86), {"h", 'bfvb_$'}]
+async func(y0, x0):
+    print(y0 + x0)
